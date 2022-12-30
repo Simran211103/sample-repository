@@ -1,0 +1,7 @@
+version 1 of the project
+i want this to commit
+do that
+changed first.txt
+new changed
+this is changed now
+hvfduwehevc
